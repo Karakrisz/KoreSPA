@@ -64,7 +64,7 @@ export default defineNuxtConfig({
         {
           hid: 'description',
           name: 'description',
-          content: 'Személyre szabott biztosítási megoldások mindenkinek. Megbízható alkusz a biztosítási piacon.',
+          content: 'Nálunk a technológia találkozik a természettel. Új és használt mezőgazdasági gépek gazdag kínálatával segítjük Önt abban, hogy a legjobb teljesítményt hozza ki földjeiből.',
         },
         { name: 'format-detection', content: 'telephone=no' },
         { hid: 'robots', name: 'robots', content: 'index, follow' },
